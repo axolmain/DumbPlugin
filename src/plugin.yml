@@ -1,0 +1,6 @@
+  name: DumbPlugin
+  version: 1.0
+  author: lennylion321
+  main: dumbplugin.Io.github
+  api-version: 1.14
+

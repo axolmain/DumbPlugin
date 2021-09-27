@@ -1,0 +1,4 @@
+name: dumbplugin
+version: ${project.version}
+main: dumbplugin.Io.github.axolmain
+api-version: 1.17
